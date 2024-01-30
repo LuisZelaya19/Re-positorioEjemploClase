@@ -1,4 +1,4 @@
-# Ejemplo Clase PAginas Web Activas
+# Ejemplo Clase Paginas Web Activas
 
 ## Integrantes
 
